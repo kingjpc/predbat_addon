@@ -31,3 +31,5 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   dummy:
     - str
+ingress: true
+ingress_port: 5052
